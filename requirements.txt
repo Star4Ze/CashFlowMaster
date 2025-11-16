@@ -1,0 +1,5 @@
+pytelegrambotapi
+pandas
+openpyxl
+matplotlib
+python-dotenv
